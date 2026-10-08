@@ -1,7 +1,7 @@
 # Bài phản tư — Lab 22 (căn chỉnh mô hình bằng DPO/ORPO)
 
 **Tên:** Lê Tuấn Đạt
-**Khoá:** A20-K4 · **Mã học viên:** 2A202602623
+**Khoá:** A20-K34A · **Mã học viên:** 2A202602623
 **Tier đã chạy:** T4
 **Ngày:** 2026-10-08
 
